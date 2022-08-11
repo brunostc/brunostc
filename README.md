@@ -1,16 +1,32 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**brunostc/brunostc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Bruno Stacheski!
 
-Here are some ideas to get you started:
+:computer: I'm a Full Stack Developer (which enjoy backend a little bit more)! I work with: Laravel, React, React Native, Node and SQL databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:house_with_garden: I’m from Brazil.
+
+:rocket: Currently working at Laons Labs.
+ 
+## Contact
+
+<ul>
+ <li>
+   <a href="https://github.com/brunostc" target="_blank">GitHub</a>
+ </li>
+ <li>
+   <a href="https://www.linkedin.com/in/brunostacheski/" target="_blank">Linkedin</a>
+ </li>
+ <li>
+   <a href="https://www.instagram.com/brunostc" target="_blank">Instagram</a>
+ </li>
+ <li>
+  <a href="mailto:stacheskibruno@gmail.com" target="_blank">E-mail</a>
+ </li>
+</ul>
+
+### ⚙️ &nbsp;GitHub analytics
+
+<a href="https://github.com/brunostc">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brunostc&show_icons=true&layout=compact&theme=react&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
+</a>
