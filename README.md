@@ -6,7 +6,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:rocket: Currently working at Laons Labs.
+:rocket: Currently working at Laon Labs.
  
 ## Contact
 
