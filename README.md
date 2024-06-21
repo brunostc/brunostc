@@ -5,8 +5,6 @@
 :computer: I'm a Full Stack Developer (which enjoy backend a little bit more)! I work with: Laravel, React, React Native, Node and SQL databases.
 
 :house_with_garden: I’m from Brazil.
-
-:rocket: Currently engineering payment solutions at Paylivre!
  
 ## Contact
 
